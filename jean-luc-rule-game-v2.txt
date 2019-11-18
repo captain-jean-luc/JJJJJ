@@ -4,7 +4,7 @@
 
 Inspired by [url=https://community.tulpa.info/thread-break-dem-rules-probably-a-mess]Break dem rules[/url], [url=https://community.tulpa.info/thread-game-last-one-to-post-wins]LOTPW[/url], [url=https://en.wikipedia.org/wiki/Mao_(card_game)]Mao[/url], and [url=https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States]SCOTUS[/url]; it's Jean-luc's Jaundiced Judicial Justice Jamboree! (I Am The Most Humblest edition)
 
-[size=large][b]Short and oversimplified explanation/rules:[/b][/size]
+[size=large][b]Short and oversimplified explanation/rules:[/b][/size] (not a replacement for the constitution, but should be enough to get you started)
 For your post to be part of the game you must start it with "GAME", to differentiate from comments and such.
 Failing to follow a rule gets you a penalty, but the round continues.
 If no one posts after your rule, you get a very severe penalty, and the rules reset.
@@ -14,34 +14,55 @@ If I've done my rules right, you can post multiple rules in one post, or multipl
 
 Example:
 
-- Melvin posts a rule.
+[quote=Melvin]
+GAME
+1> You must use the numeral 1 in your post.
+[/quote]
 
 Every minute after that post that someone else hasn't posted a rule, they earn 1 TulpaBux (Ͳ). This is kinda like LOTPW
 
-- Wesley posts a rule.
+[quote=Wesley]
+GAME
+2> Starting a rule with the word "you" is forbidden. 1
+[/quote]
 
-Every minute wesley earns [b]Ͳ1.1[/b], and it continues increasing every time a new rule is made.
+Every minute Wesley earns [b]Ͳ1.1[/b], and it continues increasing every time a new rule is made.
 
-- Penelope posts a rule, but accidentally breaks Melvin's rule.
+- Penelope posts a rule, but accidentally breaks Melvin's rule:
+[quote=Penelope]
+GAME
+5> Your rule number must not be accurate
+[/quote]
 
-- Melvin calls "PETITION" and explains why he thinks Penelope broke his rule
+- Melvin calls "PETITION" and explains why he thinks Penelope broke his rule:
+[quote=Melvin]
+PETITION
+Penelope didn't include a 1 in their post, they broke my rule
+[/quote]
 
 At this point the game pauses until the judge decides; Nobody can make more rules, and nobody earns any TulpaBux.
 
-- The Judge (me) decides that Melvin's case has merit, and decides to keep the game paused until it's resolved
-
-- Melvin, Penelope, and Wesley all chime on why they think the Judge should decide one way or another.
-
-- Having heard all arguments, the Judge decides that Melvin is right, Penelope broke Melvin's rule.
+- The Judge (me) decides that Melvin's case has merit, and is also blantantly obvious that it's correct.
+[quote=Jean-luc]
+JUDGEMENT
+Penelope broke your rule. Penelope loses Ͳ100, Rule is no longer in effect, and rewards are redistributed.
+[/quote]
+In this case it was very obvious, but if it wasn't I may have decided to hear other people's thoughts before deciding.
 
 At this point, Penelope loses Ͳ100, and the game continues as if Penelope hadn't posted: Wesley earns TulpaBux for any time between Penelope's post and Melvin's PETITION call, and continues to earn TulpaBux until the next post.
 
 - Penelope creates a very complicated, difficult rule.
+[quote=Penelope]
+19> You must prove that P=NP or that P!=NP in your post
+[/quote]
 
 Penelope has dun goof'd. A long time passes, and the Judge decides that it's clear no one is going to make a new rule after Penelope's rule
 
 - Judge declares a reset.
-
+[quote=Jean-luc]
+RESET
+Yeah, no one's gonna post after that.
+[/quote]
 This is really bad for Penelope. For every TulpaBux she would have earned, she instead loses that much, [i]and[/i] has to pay a fine of Ͳ500.
 
 All rules are reset, and a new round starts.
@@ -52,7 +73,7 @@ All rules are reset, and a new round starts.
 This is the list of rules that cannot be changed, overridden, altered, adapted, amended, edited, mutated, revised, abrogated, annuled, quashed, reversed, invalidated, negated, repealed, voided, revoked, or vetoed by player rules.
 
 [list]
-[*]RULER: Jean-luc is Supreme Ruler, Manager, Judge, Jury, and [s]Executioner[/s] Rule Enforcer.
+[*]RULER: Jean-luc is Supreme Ruler, The Court, The Supreme Court, Manager, Judge, Jury, and [s]Executioner[/s] Rule Enforcer.
 [*]RIGHT: Jean-luc is always right, except when he says otherwise. This statement shall not be construed to apply to any time Jean-luc uses the word "otherwise".
 [*]GAMEPOST: A post which starts with the exact word GAME (in all caps, as shown here) is said to be a "gamepost", unless the Judge says otherwise.
 [*]COMMENTS: Unless the Judge says otherwise, any post which is not a gamepost and is not this post is a "comment post". Comment posts have no effect on the game, they cannot be used as evidence, and and Player Rules have no effect on these posts.
@@ -71,12 +92,13 @@ This is the list of rules that cannot be changed, overridden, altered, adapted, 
 [*]RULES RESET/FACTORS: Generally, a ruleset that has been the last ruleset for at least the standard TIME LIMIT is considered to be unlikely to have another ruleset created. However, if any Player declares that they intend to post, this timeline may be expanded. Furthermore, if all recently active Players (ignoring the Player that created the Ruleset) declare that they are *not* going to post, this will be taken as strong evidence that it is unlikely that any new Rulesets will be created.
 [*]CUT MY LOSSES: The Player who is currently earning TulpaBux from a RuleSet can choose to cut their losses by saying they cut their losses. At this point they stop earning TulpaBux, resulting in a smaller penalty in case of a RULES RESET
 [*]DECLARATION OF INTENT NOT TO POST: Any player that declares their intent not to post a new rule is required to refrain from posting a new rule until somebody else creates a new rule or the game is reset.
-[*]PENALTY/FAILURE TO FOLLOW PLAYER RULE: Whenever a Player breaks a Player Rule from a post, any money they have already gained or will gain from that post is redistributed as if the post hadn't been made, and are additionally charged a flat fee of Ͳ100
+[*]PENALTY/FAILURE TO FOLLOW PLAYER RULE: Whenever a Player breaks a Player Rule from a post, any rules in that post are annulled, and any money they have already gained or will gain from that post is redistributed as if the post hadn't been made, and are additionally charged a flat fee of Ͳ100
 [*]PENALTY/CONSTITUTIONAL PENALTY: Any post that fails to follow the [b]constitution[/b], then any rules it may have made are annulled and further penalties may be applied as the Judge finds appropriate.
 [*]RULES4RULES/LAW OF THE LAND: Players must not create a rule that requires or encourages breaking any of tulpa.info's rules or any US law.
 [*]RULES4RULES/UNFAIR: Players must not create a rule that unfairly disadvantages another player or group of players
 [*]RULES PRECEDENCE: The [b]constitution[/b] has precedence over all Player Rules. If two Player Rules directly conflict, the newer rule takes precedence.
 [*]PETITIONING: If a player wishes to argue something to the judge (eg. they think a rule was broken, or some other action by the judge should be taker) they may say "PETITION", and they should probably give at least an outline of what they're arguing. Upon this, gameplay pauses, no rewards are given for the time the game is paused, and the Judge makes a preliminary ruling, usually just deciding whether to keep the game paused during the hearing or continue. The Judge will then hear arguments from anyone that wishes to comment, and then once decided will issue a Ruling.
+[*]PETITIONING/[url=https://en.wikipedia.org/wiki/Statue_of_Liberty]STATUE[/url] OF LIMITATIONS: Any petition must be brought before The Court within the standard TIME LIMIT of the alleged wrong happening.
 [/list]
 
 [hr]
