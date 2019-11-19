@@ -42,17 +42,18 @@ Penelope didn't include a 1 in their post, they broke my rule
 
 At this point the game pauses until the judge decides; Nobody can make more rules, and nobody earns any TulpaBux.
 
-- The Judge (me) decides that Melvin's case has merit, and is also blantantly obvious that it's correct.
+- The Judge (me) decides that Melvin's case has merit, and is also blatantly obvious that it's correct.
 [quote=Jean-luc]
 JUDGEMENT
 Penelope broke your rule. Penelope loses Ͳ100, Rule is no longer in effect, and rewards are redistributed.
 [/quote]
 In this case it was very obvious, but if it wasn't I may have decided to hear other people's thoughts before deciding.
 
-At this point, Penelope loses Ͳ100, and the game continues as if Penelope hadn't posted: Wesley earns TulpaBux for any time between Penelope's post and Melvin's PETITION call, and continues to earn TulpaBux until the next post.
+At this point, Penelope loses Ͳ100, and the game continues as if Penelope hadn't posted: Wesley earns TulpaBux for any time between Penelope's post and Melvin's PETITION call, and continues to earn TulpaBux until the next post. Nobody has to follow Penelope's rule.
 
 - Penelope creates a very complicated, difficult rule.
 [quote=Penelope]
+GAME
 19> You must prove that P=NP or that P!=NP in your post
 [/quote]
 
@@ -70,34 +71,34 @@ All rules are reset, and a new round starts.
 
 [hr]
 [b]Constitution[/b]
-This is the list of rules that cannot be changed, overridden, altered, adapted, amended, edited, mutated, revised, abrogated, annuled, quashed, reversed, invalidated, negated, repealed, voided, revoked, or vetoed by player rules.
+This is the list of rules that cannot be changed, overridden, altered, adapted, amended, edited, mutated, revised, abrogated, annulled, quashed, reversed, invalidated, negated, repealed, voided, revoked, or vetoed by player rules.
 
 [list]
 [*]RULER: Jean-luc is Supreme Ruler, The Court, The Supreme Court, Manager, Judge, Jury, and [s]Executioner[/s] Rule Enforcer.
 [*]RIGHT: Jean-luc is always right, except when he says otherwise. This statement shall not be construed to apply to any time Jean-luc uses the word "otherwise".
 [*]GAMEPOST: A post which starts with the exact word GAME (in all caps, as shown here) is said to be a "gamepost", unless the Judge says otherwise.
-[*]COMMENTS: Unless the Judge says otherwise, any post which is not a gamepost and is not this post is a "comment post". Comment posts have no effect on the game, they cannot be used as evidence, and and Player Rules have no effect on these posts.
-[*]INLINE COMMENTS: Inline comments can be added to gameposts by putting text in [##] tags, eg [##]this is a comment[/##]. The content of the comment and the comment tags have no effect on the game, cannot be used as evidence, and player rules have no effect.
+[*]COMMENTS: Unless the Judge says otherwise, any post which is not a gamepost and is not this post is a "comment post". Comment posts have no effect on the game (other than declarations such as PETITIONING, DECLARATION OF INTENT NOT TO POST, CUT MY LOSSES, RULES RESET, etc.), they cannot be used as evidence, and and Player Rules have no effect on these posts.
+[*]INLINE COMMENTS: Inline comments can be added to gameposts by putting text in [##] tags, e.g. [##]this is a comment[/##]. The content of the comment and the comment tags have no effect on the game, cannot be used as evidence, and player rules have no effect.
 [*]EDITING: Gameposts [b]must not be edited[/b].
 [*]TIME LIMIT: The standard time limit is 72 hours.
 [*]WAT IS PLAYER: A Player is any system that is not the Supreme Ruler, Manager, Judge, Jury, or Rule Enforcer that wishes to play. The system acts together, and any member of that system may post.
-[*]TULPABUX: TulpaBux are the official currency of JJJJJ, and can be transferred between players and the main factor in determining winningness.
+[*]TULPABUX: TulpaBux are the official currency of JJJJJ, and are the main factor in determining winningness.
 [*]TULPABUX/PLURALIZATION: "TulpaBux" is both the singular and plural form of the word, so "I got 1 TulpaBux" and "I received 1,500 TulpaBux" are both correct. The three-letter currency name is TBX. The currency symbol is Ͳ (U+0372 GREEK CAPITAL LETTER ARCHAIC SAMPI) [size=x-small](originally it was going to be [url=https://www.fileformat.info/info/unicode/char/1d4af/index.htm]U+1D4AF MATHEMATICAL SCRIPT CAPITAL T[/url] but unfortunately tulpa.info eats that character and replaces it with question marks just like some emoji)[/size]
 [*]TULPABUX/STARTINGBUX: Each Player starts with Ͳ10,000
 [*]RULE CREATION: A Player may create one or more rules ("Player Rules") in their Gamepost. If the previous Player Rule was created by a different Player, then the rules form a new Ruleset. If the previous Player Rule was created by the same Player, the rules are appended to the current Ruleset. The [b]Constitution[/b] is not a Ruleset.
 [*]PLAYER RULES APPLICABILITY: New player rules apply to the entirety of the post they are in and everything after (barring COMMENTS and INLINE COMMENTS) but nothing before.
 [*]REWARDS: Players are rewarded for each minute, according to the minute-accurate post time shown by tulpa.info, that their Ruleset was the most recent Ruleset in effect.
 [*]REWARDS/AMOUNT: The reward per minute is 1 TulpaBux for the first Ruleset of a round. After each subsequent Ruleset, the reward is 1.1 times the previous reward per minute. (10% compound increase)
-[*]RULES RESET: When the Judge decides that it is very unlikey that any new Rulesets will be created this round in a reasonable amount of time, the Judge declares a RESET: The player who created the most recent Ruleset loses double whatever rewards they've earned (that is, effectively, they lose all rewards gained from that Ruleset [i]and[/i] they lose even more money equivalent to what they would've gained. ie really bad) plus a fee of Ͳ500 and all Player Rules are annulled and a new round begins.
-[*]RULES RESET/FACTORS: Generally, a ruleset that has been the last ruleset for at least the standard TIME LIMIT is considered to be unlikely to have another ruleset created. However, if any Player declares that they intend to post, this timeline may be expanded. Furthermore, if all recently active Players (ignoring the Player that created the Ruleset) declare that they are *not* going to post, this will be taken as strong evidence that it is unlikely that any new Rulesets will be created.
-[*]CUT MY LOSSES: The Player who is currently earning TulpaBux from a RuleSet can choose to cut their losses by saying they cut their losses. At this point they stop earning TulpaBux, resulting in a smaller penalty in case of a RULES RESET
+[*]RULES RESET: When the Judge decides that it is very unlikely that any new Rulesets will be created this round in a reasonable amount of time, the Judge declares a RESET: The player who created the most recent Ruleset loses double whatever rewards they've earned (that is, effectively, they lose all rewards gained from that Ruleset [i]and[/i] they lose even more money equivalent to what they would've gained. i.e. really bad) plus a fee of Ͳ500 and all Player Rules are annulled and a new round begins.
+[*]RULES RESET/FACTORS: Generally, a Ruleset that has been the last Ruleset for at least the standard TIME LIMIT is considered to be unlikely to have another Ruleset created. However, if any Player declares that they intend to post, this timeline may be expanded. Furthermore, if all recently active Players (ignoring the Player that created the Ruleset) declare that they are *not* going to post, this will be taken as strong evidence that it is unlikely that any new Rulesets will be created.
+[*]CUT MY LOSSES: The Player who is currently earning TulpaBux from a Ruleset can choose to cut their losses by saying they cut their losses. At this point they stop earning TulpaBux, resulting in a smaller penalty in case of a RULES RESET
 [*]DECLARATION OF INTENT NOT TO POST: Any player that declares their intent not to post a new rule is required to refrain from posting a new rule until somebody else creates a new rule or the game is reset.
 [*]PENALTY/FAILURE TO FOLLOW PLAYER RULE: Whenever a Player breaks a Player Rule from a post, any rules in that post are annulled, and any money they have already gained or will gain from that post is redistributed as if the post hadn't been made, and are additionally charged a flat fee of Ͳ100
 [*]PENALTY/CONSTITUTIONAL PENALTY: Any post that fails to follow the [b]constitution[/b], then any rules it may have made are annulled and further penalties may be applied as the Judge finds appropriate.
 [*]RULES4RULES/LAW OF THE LAND: Players must not create a rule that requires or encourages breaking any of tulpa.info's rules or any US law.
 [*]RULES4RULES/UNFAIR: Players must not create a rule that unfairly disadvantages another player or group of players
 [*]RULES PRECEDENCE: The [b]constitution[/b] has precedence over all Player Rules. If two Player Rules directly conflict, the newer rule takes precedence.
-[*]PETITIONING: If a player wishes to argue something to the judge (eg. they think a rule was broken, or some other action by the judge should be taker) they may say "PETITION", and they should probably give at least an outline of what they're arguing. Upon this, gameplay pauses, no rewards are given for the time the game is paused, and the Judge makes a preliminary ruling, usually just deciding whether to keep the game paused during the hearing or continue. The Judge will then hear arguments from anyone that wishes to comment, and then once decided will issue a Ruling.
+[*]PETITIONING: If a player wishes to argue something to the judge (e.g. they think a rule was broken, or some other action by the judge should be taken) they may say "PETITION", and they should probably give at least an outline of what they're arguing. Upon this, gameplay pauses, no rewards are given for the time the game is paused, and the Judge makes a preliminary ruling, usually just deciding whether to keep the game paused during the hearing or continue. The Judge will then hear arguments from anyone that wishes to comment, and then once decided will issue a Ruling.
 [*]PETITIONING/[url=https://en.wikipedia.org/wiki/Statue_of_Liberty]STATUE[/url] OF LIMITATIONS: Any petition must be brought before The Court within the standard TIME LIMIT of the alleged wrong happening.
 [/list]
 
@@ -109,7 +110,8 @@ Here's the TulpaBux symbol again, nice and large and on its own line so it's eas
 
 [hr]
 
-Most of the rules, I'd love to see what curious/interesting/terrible loopholes and workarounds y'all think of. [b]However, please don't do these things, and please try to follow the spirit as well as the letter:[/b]
+Most of the rules, I'd love to see what curious/interesting/terrible loopholes and workarounds y'all think of.
+[b]However, please don't do these things, and please try to follow the spirit as well as the letter:[/b]
 Edit your posts
 Break any tulpa.info or US laws
 Encourage anyone else to break any tulpa.info or US laws
