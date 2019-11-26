@@ -1,10 +1,8 @@
-[Game] Jean-luc's Jaundiced Judicial Justice Jamboree (I Am The Most Humblest edition)
-
 [i]A note about mod powers: I am a mod here, but I will not be using mod powers to enforce any of the rules of this game, even those in the "Constitution". The site-wide rules of course still apply.[/i]
 
-Inspired by [url=https://community.tulpa.info/thread-break-dem-rules-probably-a-mess]Break dem rules[/url], [url=https://community.tulpa.info/thread-game-last-one-to-post-wins]LOTPW[/url], [url=https://en.wikipedia.org/wiki/Mao_(card_game)]Mao[/url], and [url=https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States]SCOTUS[/url]; it's Jean-luc's Jaundiced Judicial Justice Jamboree! (I Am The Most Humblest edition)
+Inspired by [url=https://community.tulpa.info/thread-break-dem-rules-probably-a-mess]Break dem rules[/url], [url=https://community.tulpa.info/thread-game-last-one-to-post-wins]LOTPW[/url], [url=https://en.wikipedia.org/wiki/Mao_(card_game)]Mao[/url], and [url=https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States]SCOTUS[/url]; it's Jean-luc's Jaundiced Judicial Justice Jamboree! (Github edition)
 
-[size=large][b]Short and oversimplified explanation/rules:[/b][/size] (not a replacement for the constitution, but should be enough to get you started)
+[size=large][b]Short and oversimplified explanation/rules:[/b][/size] (not a replacement for the [b]Constitution[/b], but should be enough to get you started)
 For your post to be part of the game you must start it with "GAME", to differentiate from comments and such.
 Failing to follow a rule gets you a penalty, but the round continues.
 If no one posts after your rule, you get a very severe penalty, and the rules reset.
@@ -23,7 +21,7 @@ Every minute after that post that someone else hasn't posted a rule, they earn 1
 
 [quote=Wesley]
 GAME
-2> Starting a rule with the word "you" is forbidden. 1
+2> Starting a rule with the word "you" is forbidden.
 [/quote]
 
 Every minute Wesley earns [b]Ͳ1.1[/b], and it continues increasing every time a new rule is made.
@@ -89,19 +87,20 @@ This is the list of rules that cannot be changed, overridden, altered, adapted, 
 [*]PLAYER RULES APPLICABILITY: New player rules apply to the entirety of the post they are in and everything after (barring COMMENTS and INLINE COMMENTS) but nothing before.
 [*]REWARDS: Players are rewarded for each minute, according to the minute-accurate post time shown by tulpa.info, that their Ruleset was the most recent Ruleset in effect.
 [*]REWARDS/AMOUNT: The reward per minute is 1 TulpaBux for the first Ruleset of a round. After each subsequent Ruleset, the reward is 1.1 times the previous reward per minute. (10% compound increase)
-[*]RULES RESET: When the Judge decides that it is very unlikely that any new Rulesets will be created this round in a reasonable amount of time, the Judge declares a RESET: The player who created the most recent Ruleset loses double whatever rewards they've earned (that is, effectively, they lose all rewards gained from that Ruleset [i]and[/i] they lose even more money equivalent to what they would've gained. i.e. really bad) plus a fee of Ͳ500 and all Player Rules are annulled and a new round begins.
+[*]RULES RESET: When the Judge decides that it is very unlikely that any new Rulesets will be created this round in a reasonable amount of time, the Judge declares a RESET: The player who created the most recent Ruleset loses whatever rewards they've earned plus a fee of Ͳ300 and all Player Rules are annulled and a new round begins.
 [*]RULES RESET/FACTORS: Generally, a Ruleset that has been the last Ruleset for at least the standard TIME LIMIT is considered to be unlikely to have another Ruleset created. However, if any Player declares that they intend to post, this timeline may be expanded. Furthermore, if all recently active Players (ignoring the Player that created the Ruleset) declare that they are *not* going to post, this will be taken as strong evidence that it is unlikely that any new Rulesets will be created.
-[*]CUT MY LOSSES: The Player who is currently earning TulpaBux from a Ruleset can choose to cut their losses by saying they cut their losses. At this point they stop earning TulpaBux, resulting in a smaller penalty in case of a RULES RESET
 [*]DECLARATION OF INTENT NOT TO POST: Any player that declares their intent not to post a new rule is required to refrain from posting a new rule until somebody else creates a new rule or the game is reset.
 [*]PENALTY/FAILURE TO FOLLOW PLAYER RULE: Whenever a Player breaks a Player Rule from a post, any rules in that post are annulled, and any money they have already gained or will gain from that post is redistributed as if the post hadn't been made, and are additionally charged a flat fee of Ͳ100
-[*]PENALTY/CONSTITUTIONAL PENALTY: Any post that fails to follow the [b]constitution[/b], then any rules it may have made are annulled and further penalties may be applied as the Judge finds appropriate.
+[*]PENALTY/CONSTITUTIONAL PENALTY: Any post that fails to follow the [b]Constitution[/b], then any rules it may have made are annulled and further penalties may be applied as the Judge finds appropriate.
 [*]RULES4RULES/LAW OF THE LAND: Players must not create a rule that requires or encourages breaking any of tulpa.info's rules or any US law.
 [*]RULES4RULES/UNFAIR: Players must not create a rule that unfairly disadvantages another player or group of players
-[*]RULES PRECEDENCE: The [b]constitution[/b] has precedence over all Player Rules. If two Player Rules directly conflict, the newer rule takes precedence.
+[*]RULES PRECEDENCE: The [b]Constitution[/b] has precedence over all Player Rules. If two Player Rules directly conflict, the newer rule takes precedence.
 [*]PETITIONING: If a player wishes to argue something to the judge (e.g. they think a rule was broken, or some other action by the judge should be taken) they may say "PETITION", and they should probably give at least an outline of what they're arguing. Upon this, gameplay pauses, no rewards are given for the time the game is paused, and the Judge makes a preliminary ruling, usually just deciding whether to keep the game paused during the hearing or continue. The Judge will then hear arguments from anyone that wishes to comment, and then once decided will issue a Ruling.
 [*]PETITIONING/[url=https://en.wikipedia.org/wiki/Statue_of_Liberty]STATUE[/url] OF LIMITATIONS: Any petition must be brought before The Court within the standard TIME LIMIT of the alleged wrong happening.
 [/list]
 
+Ammendments are already included in the Constitution you see above.
+[font=Times New Roman][b]AMMENDMENTS:[/b] [url=https://community.tulpa.info/thread-game-jean-luc-s-jaundiced-judicial-justice-jamboree-accepting-ammendments-edition?pid=277462#pid277462]I[/url][/font]
 [hr]
 
 Here's the TulpaBux symbol again, nice and large and on its own line so it's easy to copypaste:
